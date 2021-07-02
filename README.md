@@ -16,9 +16,9 @@ ARC_euclidean_taxonomy_prediction_glove.ipynb - Baseline which uses BERT to enco
 ARC_euclidean_taxonomy_prediction_twin_BERT.ipynb - Baseline which uses two BERT models one for QA pair and another for label following the work of https://arxiv.org/abs/2002.06275 <br />
 
 
-data
-   ├── css
-   ├── favicon.ico
-   ├── images
-   ├── index.html
-   └── partials/templat
+data <br />
+   ├── targets_ARC.csv - Targets for Arc data for retrieval at inference <br />
+   ├── train_QC_data.csv - ARC train dataset (the QC in filename has no relation to the other dataset in paper <br />
+   ├── test_QC_data.csv <br />
+   ├── val_QC_data.csv <br />
+   └── what_you_learnt_lo_labelled.csv -  Learning objectives data to test zero shot abilities <br />
