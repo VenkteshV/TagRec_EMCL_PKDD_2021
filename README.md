@@ -22,3 +22,5 @@ data <br />
    ├── test_QC_data.csv <br />
    ├── val_QC_data.csv <br />
    └── what_you_learnt_lo_labelled.csv -  Learning objectives data to test zero shot abilities <br />
+   
+   The QC_science datset will be made available on demand
