@@ -24,3 +24,4 @@ data <br />
    └── what_you_learnt_lo_labelled.csv -  Learning objectives data to test zero shot abilities <br />
    
    The QC_science datset will be made available on demand
+<b> A service with inference API coming soon in this repo </b>
